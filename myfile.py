@@ -5,6 +5,6 @@ print("Hello Wor")
 
 print("Hot fix - wygral")
 
-print("pull request")
+print("pull requ")
 
 print("bug fix")
