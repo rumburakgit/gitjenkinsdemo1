@@ -4,3 +4,5 @@
 
 # i coś jeszcze
 
+# jako nie istniejacy 
+
