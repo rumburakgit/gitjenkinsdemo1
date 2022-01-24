@@ -6,5 +6,6 @@
 
 # jako nie istniejacy 
 
-# jeszcze jeden
+# jeszcze jeden dodajemy
 
+# jeszcze nie to
