@@ -2,9 +2,12 @@
 
 # a tu na branchu
 
-# i coś jeszcze
+# i coś jeszczeeeeee
 
 # jako nie istniejacy 
 
-# jeszcze jeden
+# jeszcze jeden dodajemy
 
+# jeszcze nie to
+
+# i jeszcze coś
