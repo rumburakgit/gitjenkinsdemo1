@@ -15,3 +15,5 @@
 # proba 96
 
 # no to jeszcze coś itd
+
+# ale jaja
