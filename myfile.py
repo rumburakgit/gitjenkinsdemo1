@@ -1,7 +1,7 @@
 # glupota
-print("Hello")
+print("Hello main2")
 
-print("Hello Wor")
+print("Hello Wor main2")
 
 print("Hot fix - wygral")
 
