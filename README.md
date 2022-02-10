@@ -1,6 +1,6 @@
-# gitjenkinsdemo1
+# gitjenkinsdemo1 added konfliktu
 
-# a tu na branchu
+# a tu na branchu added konfliktu
 
 # i coś jeszczeeeeee
 
