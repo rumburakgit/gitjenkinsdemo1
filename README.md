@@ -19,3 +19,7 @@
 # no to jeszcze coś itd
 
 # ale jaja
+
+# OK OK OK 
+
+# OK OK OK 
