@@ -8,3 +8,5 @@ print("Hot fix - wygral wewewe")
 print("pull requ")
 
 print("bug fix inne")
+
+print("main ucika")
