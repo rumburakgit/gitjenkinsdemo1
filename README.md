@@ -4,13 +4,13 @@
 
 # i coś jeszczeeeeee
 
-# jako nie istniejacy 
+# jako nie istniejacfghjghj 
 
-# jeszcze jeden dodajemy
+# jeszcze jeden dodajemyfghjgfj
 
 # jeszcze nie to
 
-# i jeszcze coś
+# i jeszcze cośfghjgj
 
 # coś mi sie tu dodało
 
