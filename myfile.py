@@ -10,7 +10,3 @@ print("pull requ")
 print("bug fix inne")
 
 print("main ucika")
-
-to revert 3.
-to revert 3.
-to revert 3.
