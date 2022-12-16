@@ -10,3 +10,5 @@ print("pull requ")
 print("bug fix inne")
 
 print("main ucika")
+
+print("lecimy dalej")
